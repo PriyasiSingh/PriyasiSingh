@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PriyasiSingh
 - 👀 I’m interested in Testing
-- 🌱 I’m currently learning Postman API testing
+- 🌱 I’m currently learning Cypress
 - 📫 Connect me at priyasi.singh@axelerant.com
 
 <!---
